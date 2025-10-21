@@ -26,16 +26,13 @@ Muestra de la interfaz al usuario.
 ### LOGGIN
 <table>
   <tr>
-    <td><img src="https://github.com/JesusSamano/Proyecto-Final/assets/113057832/090a3313-e36b-430a-a4c8-3d1181597930" alt="Captura de Pantalla 1" width="400"/></td>
-    <td><img src="https://github.com/JesusSamano/Proyecto-Final/assets/113057832/cbbd648e-eb1b-409f-ae4c-95cf9151c09e" alt="Captura de Pantalla 2" width="400"/></td>
-  </tr>
+    <td><img 
 </table>
 
 ### Home
 Esta es la parte que el usuario visualiza despues del el loggin
 <table>
   <tr>
-    <td><img src="https://github.com/JesusSamano/Proyecto-Final/assets/113057832/80fc9a0d-f9ce-4cea-a031-f598e067084a" alt="Captura de Pantalla 1" width="900"/></td>
       </tr>
 </table>
 
@@ -46,12 +43,10 @@ En la imagen de lado izquierdo se visualiza una ventana con los unos precios, la
 
 <table>
   <tr>
-    <td><img src="https://github.com/JesusSamano/Proyecto-Final/assets/113057832/80fc9a0d-f9ce-4cea-a031-f598e067084a" width="600"/></td>
-    <td><img src="https://github.com/JesusSamano/Proyecto-Final/assets/113057832/9dbaded6-eaaf-4970-a975-51feb6f9c250" width="600"/></td>  
+     
  </tr>
 </table>
 
-![image](https://github.com/JesusSamano/Proyecto-Final/assets/113057832/c816f3db-657c-4736-92b8-a180a6b0d4da)
 
 Esto ayuda bastante a los clientes que tienen un presupuesto y ayuda a quién vende el auto para que este sea adquirido más rápido, con nosotros en ganar ganar. 
 
@@ -144,61 +139,4 @@ INSERT INTO `usuarios` (`ID`, `usuario`, `password`) VALUES
 (2, 'Juan', 'Juanje');
 ```
 
-<table>
-  <tr>
-    <td><img src="https://github.com/JesusSamano/Proyecto-Final/assets/113057832/195572b0-02f3-4b21-b128-307c5e231a8a" width="400"/></td>
- </tr>
-</table>
 
-## Conexion de base de datos con docker
-Iniciamos la instalación de mysql- server
-<table>
-  <tr>
-    <td><img src="https://github.com/JesusSamano/Proyecto-Final/assets/113057832/9e1760b8-5ca5-47a2-a0a8-06362cbd33b1" width="400"/></td>
- </tr>
-</table>
-Creamos un contenedor mediante comandos
-<table>
-  <tr>
-    <td><img src="https://github.com/JesusSamano/Proyecto-Final/assets/113057832/ada7ae84-8c37-4174-9649-86a505083f31" width="400"/></td>
- </tr>
-</table>
-
-## Funcionando en Docker 
-<table>
-  <tr>
-    <td><img src="https://github.com/JesusSamano/Proyecto-Final/assets/113057832/2993491f-3483-42bb-852e-3377f08ea7fe" width="400"/></td>
- </tr>
-</table>
-
-### Contenedor 
-
-<table>
-  <tr>
-    <td><img src="https://github.com/JesusSamano/Proyecto-Final/assets/113057832/f47fda93-cd49-4b7b-84fc-22f0f10cb546" width="400"/></td>
- </tr>
-</table>
---- 
-
-## Orquestar base de datos con Kubernetes. 
-Instalamos operadores para utilizar comandos.
-
-<table>
-  <tr>
-    <td><img src="https://github.com/JesusSamano/Proyecto-Final/assets/113057832/eb0457b2-01f6-44d8-bd72-f9825878332c" width="400"/></td>
- </tr>
-</table>
-
-Procedemos con la configuración
-<table>
-  <tr>
-    <td><img src="https://github.com/JesusSamano/Proyecto-Final/assets/113057832/752bc593-8180-446d-b6b8-9e6b63969556" width="200"/></td>
- </tr>
-</table>
-
-Levantamos el cluster.
-<table>
-  <tr>
-    <td><img src="https://github.com/JesusSamano/Proyecto-Final/assets/113057832/d6a364c7-abaa-4841-a932-a55181b46e1c" width="400"/></td>
- </tr>
-</table>
