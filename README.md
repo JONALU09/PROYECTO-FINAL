@@ -2,7 +2,7 @@
 # Compra de Automóviles de Lujo
 
 ## Introducción
-Nuestro proyecto consiste en una aplicación web para comprar automóviles de lujo. Nuestros usuarios pueden ver los diferentes autos que están disponibles. 
+El proyecto consiste en una aplicación web para comprar automóviles de lujo. Nuestros usuarios pueden ver los diferentes autos que están disponibles. 
 La ventaja es que al utilizar nuestra web podrás tener la oportunidad de visualizar ofertas y saber cuál es el auto con el menor precio, así optimiza sus finanzas.
 
 ## Estructura del Proyecto
